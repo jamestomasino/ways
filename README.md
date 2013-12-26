@@ -16,15 +16,18 @@ Ways is in the initial planning stage. The following are is a list of proposed f
 
 ### Scene Display Interface ###
 
-Scenes are an extensible system built on a common core interface.
+Scenes are an extensible system built on a common core interface. They provide the front-end experience of the adventure to the user. Each Scene in Ways is designed to be a self-contained unit with a common core lexicon accessible via the Input Interface. 
 
 ### Input Interface ###
 
+The Input Interface is the method for user interaction that communicates instructions or directives to the Scene. 
 
 ### Plugin/Add on System ###
 
 
+
 ### Linkage Map System ###
+
 
 
 ### Routing ###
